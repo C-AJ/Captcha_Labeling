@@ -1,6 +1,6 @@
 General Instructions:
-1. Drop Images from ZIP file into images folder.
-2. Go into labelImg folder and open labelImg.exe.
+1. Extract Images from ZIP file into images folder.
+2. Go into Captcha_Labeling folder and open labelImg.exe.
 3. Expand window to fullscreen.
 4. Click "Open Dir", located near on the top left side of the window.
 5. Select the images folder
