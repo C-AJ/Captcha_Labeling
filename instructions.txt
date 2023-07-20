@@ -1,0 +1,16 @@
+General Instructions:
+1. Drop Images from ZIP file into images folder.
+2. Go into labelImg folder and open labelImg.exe.
+3. Expand window to fullscreen.
+4. Click "Open Dir", located near on the top left side of the window.
+5. Select the images folder
+	*IMPORTANT* Make sure an image is properly loaded before the next step, or program will crash.
+6. Click "Change Save Dir", located below "Open Dir".
+7. Select the labels folder.
+8. Below the "Save" button, make sure the text below says YOLO. If it doesn't, click on the button until it does.
+9. Below the "YOLO" button, click "Create RectBox". Create a box around the letters and numbers while minimizing outside area. 
+10. Select the correct number/letter according to the image from the selection.
+11. Repeat steps 9-10 until all numbers/letters are labeled.
+12. Check that all of the labels saved on the right side match the file name at the top.
+13. Click on the "Save" button and click the "Next Image" button below "Change Save Dir".
+14. Continue until done.
